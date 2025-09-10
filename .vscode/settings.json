@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "friend_overload": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
